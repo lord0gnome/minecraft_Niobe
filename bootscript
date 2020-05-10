@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo java -Xmx3G -jar mc_server.jar nogui

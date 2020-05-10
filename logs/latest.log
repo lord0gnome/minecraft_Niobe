@@ -1,0 +1,40 @@
+[15:08:01] [Server thread/INFO]: IndigoBlack19[/142.162.186.234:55846] logged in with entity id 15706 at (950.6999999880791, 63.0, 658.5187346524744)
+[15:08:01] [Server thread/INFO]: IndigoBlack19 joined the game
+[15:34:24] [Server thread/INFO]: murphy0309[/156.34.31.183:56171] logged in with entity id 19496 at (948.9461167817469, 67.5625, 658.9750886379786)
+[15:34:24] [Server thread/INFO]: murphy0309 joined the game
+[16:26:54] [Server thread/INFO]: murphy0309 lost connection: Disconnected
+[16:26:54] [Server thread/INFO]: murphy0309 left the game
+[16:26:57] [Server thread/INFO]: murphy0309[/156.34.31.183:56566] logged in with entity id 28705 at (947.9676323381781, 67.5625, 658.2674217218648)
+[16:26:57] [Server thread/INFO]: murphy0309 joined the game
+[16:42:23] [Server thread/INFO]: murphy0309 lost connection: Disconnected
+[16:42:23] [Server thread/INFO]: murphy0309 left the game
+[16:42:25] [Server thread/INFO]: murphy0309[/156.34.31.183:56685] logged in with entity id 30697 at (862.5246171908086, 7.0, 592.8667671712124)
+[16:42:25] [Server thread/INFO]: murphy0309 joined the game
+[16:45:18] [Server thread/WARN]: murphy0309 moved wrongly!
+[16:48:40] [Server thread/INFO]: <IndigoBlack19> can you hear me?
+[17:02:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/36324, l='world', x=914.97, y=65.00, z=646.54]
+[17:31:08] [Server thread/INFO]: IndigoBlack19 lost connection: Disconnected
+[17:31:08] [Server thread/INFO]: IndigoBlack19 left the game
+[17:31:09] [Server thread/INFO]: murphy0309 lost connection: Disconnected
+[17:31:09] [Server thread/INFO]: murphy0309 left the game
+[17:31:12] [Server thread/INFO]: murphy0309[/156.34.31.183:57050] logged in with entity id 43434 at (949.8422746148229, 63.0, 656.4544672387957)
+[17:31:12] [Server thread/INFO]: murphy0309 joined the game
+[17:31:12] [Server thread/INFO]: IndigoBlack19[/142.162.186.234:56012] logged in with entity id 43458 at (948.346757155185, 63.0, 656.6057382399563)
+[17:31:12] [Server thread/INFO]: IndigoBlack19 joined the game
+[17:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[18:03:36] [Server thread/INFO]: murphy0309 lost connection: Disconnected
+[18:03:36] [Server thread/INFO]: murphy0309 left the game
+[18:10:50] [Server thread/INFO]: IndigoBlack19 lost connection: Disconnected
+[18:10:50] [Server thread/INFO]: IndigoBlack19 left the game
+[18:39:48] [Server thread/INFO]: Stopping server
+[18:39:48] [Server thread/INFO]: Saving players
+[18:39:48] [Server thread/INFO]: Saving worlds
+[18:39:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:39:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:39:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
